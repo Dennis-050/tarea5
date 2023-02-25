@@ -14,8 +14,8 @@ Console.Write("ingresar el valor con que desea iniciar: ");
                 if (i % 2 == 0)
                 {
                     Console.Write(i + " ");
-                {
-           {    
+                }
+           }    
 
     
 
